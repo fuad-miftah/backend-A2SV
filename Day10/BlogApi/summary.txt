@@ -1,0 +1,7 @@
+On the first video I have watched folder structure for clean architecture In detail.
+after that I watched a series of videos starting with Introduction.
+In this video I knew about the author.
+On the secenod video we are told what we are going to buld that is Leave Managment system.
+then we follow setting up the folder. we created src and test folder. In src folder we created API, Core, Infrastracture and UI folder.
+then we created the domain project. It is the model about what a different entity will contain. we created baseEntity for repeated entity.
+finaly we created the application project. It is the interface that the ui and domain communicate.
